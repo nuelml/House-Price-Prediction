@@ -1,2 +1,4 @@
 # House-Price-Prediction
-This is a model which uses linear regression to predict house prices
+Dataset from https://www.kaggle.com/datasets/camnugent/california-housing-prices
+This is a model which uses simple linear regression to predict house prices.
+Still working on it to make it better.
